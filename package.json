@@ -1,7 +1,7 @@
 {
   "name": "server.mjs",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.mjs"
   },
